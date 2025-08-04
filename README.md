@@ -27,9 +27,9 @@ faults-dataset
 ## Technologies Used
 - IBM Cloud Lite (Watson Studio, ML)
 
-## 🎯 Objective
+## Objective
 Enable accurate and real-time classification of faults in power systems to improve grid monitoring, fault recovery, and operational efficiency.
 
 ---
 
-**Note:** This project is part of the Edunet Foundation AICTE internship using IBM Cloud services.
+**Note:** This project is part of the "IBM SkillsBuild - Edunet Foundation - AICTE Internship" using IBM Cloud services.
