@@ -11,8 +11,7 @@ The objective is to enable rapid and accurate fault identification, which is cru
 maintaining power grid stability and reliability. 
 
 ## Dataset
-- Source: [Kaggle – Power System Faults Dataset], https://www.kaggle.com/datasets/ziya07/power-system
-faults-dataset
+- Source: [Kaggle – Power System Faults Dataset], https://www.kaggle.com/datasets/ziya07/power-system-faults-dataset
 
 ## ML Model
 - Algorithm: Random Forest Classifier
